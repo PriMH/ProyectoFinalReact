@@ -260,11 +260,7 @@ npm run build
 
 **Importante**: Recuerda configurar las variables de entorno en tu plataforma de deploy.
 
-## 👨‍💻 Autor
 
-**[Tu Nombre Completo]**
-- GitHub: [@TU_USUARIO]
-- Email: tu_email@example.com
 
 ## 📄 Licencia
 
@@ -277,5 +273,3 @@ Este proyecto fue desarrollado como trabajo final del curso de ReactJS en CoderH
 - Compañeros de curso por su apoyo
 
 ---
-
-⭐ Si te gustó este proyecto, no olvides darle una estrella!
